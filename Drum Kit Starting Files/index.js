@@ -2,7 +2,7 @@ let buttons = document.querySelectorAll(".drum");
 
 buttons.forEach(button => {
     button.addEventListener("click", () => {
-        new Audio(`/Drum Kit Starting Files/sounds/${button.getAttribute("tag")}`).play();
+        new Audio(`../Drum Kit Starting Files/sounds/${button.getAttribute("tag")}`).play();
     });
 });
 
