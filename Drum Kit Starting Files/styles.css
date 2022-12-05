@@ -17,37 +17,37 @@ footer {
 }
 
 .w {
-  background: url("/Drum Kit Starting Files/images/crash.png") center;
+  background: url("../Drum Kit Starting Files/images/crash.png") center;
   background-size: 130px 130px;
 }
 
 .a {
-  background: url("/Drum Kit Starting Files/images/kick.png") center;
+  background: url("../Drum Kit Starting Files/images/kick.png") center;
   background-size: 130px 130px;
 }
 
 .s {
-  background: url("/Drum Kit Starting Files/images/snare.png") center;
+  background: url("../Drum Kit Starting Files/images/snare.png") center;
   background-size: 130px 130px;
 }
 
 .d {
-  background: url("/Drum Kit Starting Files/images/tom1.png") center;
+  background: url("../Drum Kit Starting Files/images/tom1.png") center;
   background-size: 130px 130px;
 }
 
 .j {
-  background: url("/Drum Kit Starting Files/images/tom2.png") center;
+  background: url("../Drum Kit Starting Files/images/tom2.png") center;
   background-size: 130px 130px;
 }
 
 .k {
-  background: url("/Drum Kit Starting Files/images/tom3.png") center;
+  background: url("../Drum Kit Starting Files/images/tom3.png") center;
   background-size: 130px 130px;
 }
 
 .l {
-  background: url("/Drum Kit Starting Files/images/tom4.png") center;
+  background: url("../Drum Kit Starting Files/images/tom4.png") center;
   background-size: 130px 130px;
 }
 
